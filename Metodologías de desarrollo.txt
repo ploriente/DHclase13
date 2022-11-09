@@ -1,0 +1,8 @@
+Metodologías de desarrollo
+---------------------------
+Las metodologías ágiles son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto. Permiten contar con flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno.
+
+El trabajo es realizado mediante la colaboración de equipos autoorganizados y multidisciplinarios, inmersos en un proceso compartido de toma de decisiones a corto plazo.
+
+Git como herramienta y conocer la metodología Scrum.
+####################################################
